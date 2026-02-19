@@ -19,4 +19,4 @@ Lab 1 – App Features (TS.5.3)
 
 ## Notes
 
-This document supports Lab 1 (TS.5.3). Instructors may adapt feature scope for each cohort.
+This document supports Lab 1 (TS.5.3). Instructor may adapt feature scope for each cohort.
